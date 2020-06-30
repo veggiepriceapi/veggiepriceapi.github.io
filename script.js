@@ -17,12 +17,7 @@ const mainFunction = (data, produto, regiao) => {
   for (let index in data) {
     let seriesName = index;
     let seriesData = [];
-    console.log(data)
-    console.log(data[2016][0]['produto'])
-    console.log(produto)
-    console.log(data[2016][0]["regiao"])
     let filteredData = data[index].filter( element => element['produto'] === produto && element['regiao'] === regiao)
-    console.log(filteredData)
     filteredData.forEach((filtrado) =>
       seriesData.push(parseFloat(filtrado['preco']))
     );
