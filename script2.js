@@ -14,28 +14,27 @@ fetch(
 });
 
 const mainFunction = (data, produto, regiao) => {
+  console.log(data);
   for (let index in data) {
     let seriesName = index;
     let seriesData = [];
-    console.log(data)
-    console.log(data[2016][0]['produto'])
-    console.log(produto)
-    console.log(data[2016][0]["regiao"])
-    let filteredData = data[index].filter( element => element['produto'] === produto && element['regiao'] === regiao)
-    console.log(filteredData)
-    filteredData.forEach((filtrado) =>
-      seriesData.push(parseFloat(filtrado['preco']))
+    let filteredData = data[index].filter(
+      (dado) => dado.Produto === produto && dado.Região === regiao
     );
-    createChart(seriesName, seriesData);
+    filteredData.forEach((filtrado) =>
+      seriesData.push(parseFloat(filtrado.Preço))
+    );
+    createDayChart(seriesName, seriesData)
   }
 };
 
-function createChart(name, data) {
-  options.series.push({
+function createDayChart(name, data) {
+  options2.series.push({
     name: name,
     data: data,
   });
-  chart.update();
+  chart2.update();
+  console.log(options6)
 }
 
 //chart defaults
@@ -83,7 +82,7 @@ const lineChartLegend = {
 const lineChartTooltipCases = {
   y: {
     formatter: function (val) {
-      return "R$" + val;
+      return 'R$' + val ;
     },
   },
 };
@@ -102,7 +101,7 @@ const lineChartStroke = {
 //end of chart defaults
 
 //total cases chart
-let options = {
+let options2 = {
   chart: lineChart,
   colors: colors,
   stroke: lineChartStroke,
@@ -137,11 +136,10 @@ let options = {
   legend: lineChartLegend,
   tooltip: lineChartTooltipCases,
   title: {
-    text: "Preço do produto selecionado",
+    text: "PreÃ§o do produto selecionado",
     align: "center",
   },
 };
-
-let chart = new ApexCharts(document.querySelector("#chart"), options);
-chart.render();
+let chart2 = new ApexCharts(document.querySelector("#chart2"), options2);
+chart2.render();
 //end of new cases chart
