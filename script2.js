@@ -9,24 +9,70 @@ fetch(
   option1
 ).then((response) => {
   response.json().then((data) => {
-    mainFunction1(data, "Italiano - atacado", "Campinas");
+    mainFunction1(data, "Italiano - atacado", "São Paulo (capital)");
+    
   });
 });
+const dayPrecision = {
+  '1': 0,
+  '2': 31,
+  '3': 59,
+  '4': 90,
+  '5': 120,
+  '6': 151,
+  '7': 181,
+  '8': 212,
+  '9': 243,
+  '10': 273,
+  '11': 304,
+  '12': 334,
+}
+
+const YearDayFinder = (day, month) => {
+  for(let i in dayPrecision) {
+    if (month === i) {
+      return dayPrecision[i] + parseInt(day)
+    }
+  }
+}
+
+
+let contador = 0 
+const dataFill = () => {
+  let nullArr = []
+  for(let i = 1; i <= 365; i += 1) {
+    nullArr.push(null)
+  }
+  return nullArr
+}
+
+const nullFixer = (arr, year) => {
+ let firstValid = arr.find( element => element !== null)
+ arr[0] = firstValid
+ for ( let i = 0; i < 365; i += 1) {
+   if (year === '2020') {
+    (arr[i+1] === null && i < 180) ? arr[i+1] = arr[i]: arr[i+1]
+   } else {
+     (arr[i+1] === null) ? arr[i+1] = arr[i]: arr[i+1];
+   }
+ }
+}
 
 const mainFunction1 = (data, produto, regiao) => {
-  console.log(data);
   for (let index in data) {
-    let seriesName = index;
-    let seriesData = [];
+    let seriesName = index + ' ' + regiao;
+    let seriesData = dataFill();
+    
     let filteredData = data[index].filter(
       (dado) => dado.produto === produto && dado.regiao === regiao
-    );
-    console.log(filteredData)
-    filteredData.forEach((filtrado) => {
-      let dataTime = {x:`${((filtrado.dia.length > 1) ? filtrado.dia : `0${filtrado.dia}`)}/${((filtrado.mes.length > 1) ? filtrado.mes : `0${filtrado.mes}`)}/${filtrado.ano}`, y:(parseFloat(filtrado.preco))}
-      seriesData.push(dataTime)
-    });
-    createDayChart(seriesName, seriesData)
+      );
+      filteredData.forEach((filtrado) => {
+        position = YearDayFinder(filtrado.dia, filtrado.mes) - 1
+        seriesData[position] = parseFloat(filtrado.preco)
+      });
+      nullFixer(seriesData, index)
+      contador += 1
+      createDayChart(seriesName, seriesData)
   }
 };
 
@@ -108,8 +154,9 @@ let options2 = {
   stroke: lineChartStroke1,
   series: [],
   xaxis: {
-    type: "category",
-    tickAmount: 12,
+    type: "numeric",
+    tickAmount: 56,
+    max: 365,
     title: {
       text: "Meses",
       offsetY: 10,
