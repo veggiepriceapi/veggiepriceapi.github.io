@@ -1,0 +1,3716 @@
+﻿{
+    "2018": [
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "Campinas",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "37.13"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "Campinas",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "37.66"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "Campinas",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "32"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "Campinas",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "29.64"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "Campinas",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "34.04"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "Campinas",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "21.64"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "Campinas",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "18.65"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "Campinas",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "18.71"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "Campinas",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "22.34"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "Campinas",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "41.4"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "Campinas",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "46.15"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "Campinas",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "41.21"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "36.26"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "39.38"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "35.45"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "32.43"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "38.4"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "21.58"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "18.29"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "18.17"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "21.95"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "39.53"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "40.01"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "42.07"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "62.97"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "68.24"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "57.42"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "55.06"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "61.77"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "40.88"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "34.76"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "34.98"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "40.57"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "75.26"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "83.34"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "73.05"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "60.49"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "60.99"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "56.95"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "55.86"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "65.27"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "37.29"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "31.88"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "34.57"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "40.24"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "77.64"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "75.8"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "74.53"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "60.59"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "58.19"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "50.38"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "52.79"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "45.59"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "32.8"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "28.42"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "29.16"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "33.71"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "73.06"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "71.65"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "71.96"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "62.47"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "61.59"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "51.54"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "52.3"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "54.3"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "37.08"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "31.4"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "31.96"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "36.74"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "67.97"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "71.97"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "68.93"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "60.96"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "58.41"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "54.97"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "58.16"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "65.36"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "39.31"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "28.83"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "29.25"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "35.28"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "77.06"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "84.58"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "78.19"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "59.75"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "59.01"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "54.75"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "54.21"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "58.01"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "37.4"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "29.3"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "30.66"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "38.56"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "79.61"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "77.03"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "76.75"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "34.58"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "34.3"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "29.51"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "30.24"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "25.41"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "16.76"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "14.99"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "15.52"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "18.62"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "40.36"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "44.4"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "42.05"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Campinas",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "36.52"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Campinas",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "35.07"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Campinas",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "28.59"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Campinas",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "28.02"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Campinas",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "31.65"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Campinas",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "20.14"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Campinas",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "18.07"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Campinas",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "17.6"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Campinas",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "20.79"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Campinas",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "37.31"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Campinas",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "41.2"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Campinas",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "37.67"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "37.82"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "37.49"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "31.71"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "32.17"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "35.29"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "24.05"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "17.83"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "17.72"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "20.37"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "43.85"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "51.46"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "47.9"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "34.75"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "36.05"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "33.69"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "30.19"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "33.18"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "21.43"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "17.1"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "16.16"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "19.69"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "40.35"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "40.92"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "41.64"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "3",
+            "Unidade": "Caixa Aberta",
+            "Preço": "27.5"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Araguari",
+            "Mês": "3",
+            "Unidade": "Caixa Aberta",
+            "Preço": "40"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Araguari",
+            "Mês": "4",
+            "Unidade": "Caixa Aberta",
+            "Preço": "43.45"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Araguari",
+            "Mês": "5",
+            "Unidade": "Caixa Aberta",
+            "Preço": "38.74"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Araguari",
+            "Mês": "6",
+            "Unidade": "Caixa Aberta",
+            "Preço": "28.67"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Araguari",
+            "Mês": "7",
+            "Unidade": "Caixa Aberta",
+            "Preço": "19.19"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Araguari",
+            "Mês": "8",
+            "Unidade": "Caixa Aberta",
+            "Preço": "19.15"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Araguari",
+            "Mês": "9",
+            "Unidade": "Caixa Aberta",
+            "Preço": "26.96"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Araguari",
+            "Mês": "10",
+            "Unidade": "Caixa Aberta",
+            "Preço": "65.66"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Araguari",
+            "Mês": "11",
+            "Unidade": "Caixa Aberta",
+            "Preço": "61.38"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Araguari",
+            "Mês": "12",
+            "Unidade": "Caixa Aberta",
+            "Preço": "65.67"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Caçador (região)",
+            "Mês": "1",
+            "Unidade": "Caixa Aberta",
+            "Preço": "43.87"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Caçador (região)",
+            "Mês": "2",
+            "Unidade": "Caixa Aberta",
+            "Preço": "36.69"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Caçador (região)",
+            "Mês": "3",
+            "Unidade": "Caixa Aberta",
+            "Preço": "31.8"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Caçador (região)",
+            "Mês": "4",
+            "Unidade": "Caixa Aberta",
+            "Preço": "25.86"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Chapada Diamantina",
+            "Mês": "1",
+            "Unidade": "Caixa Aberta",
+            "Preço": "57.27"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Chapada Diamantina",
+            "Mês": "2",
+            "Unidade": "Caixa Aberta",
+            "Preço": "58.24"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Chapada Diamantina",
+            "Mês": "3",
+            "Unidade": "Caixa Aberta",
+            "Preço": "47.5"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Chapada Diamantina",
+            "Mês": "4",
+            "Unidade": "Caixa Aberta",
+            "Preço": "47.38"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Chapada Diamantina",
+            "Mês": "5",
+            "Unidade": "Caixa Aberta",
+            "Preço": "49.19"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Chapada Diamantina",
+            "Mês": "6",
+            "Unidade": "Caixa Aberta",
+            "Preço": "41.15"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Chapada Diamantina",
+            "Mês": "7",
+            "Unidade": "Caixa Aberta",
+            "Preço": "28.32"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Chapada Diamantina",
+            "Mês": "8",
+            "Unidade": "Caixa Aberta",
+            "Preço": "25.7"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Chapada Diamantina",
+            "Mês": "9",
+            "Unidade": "Caixa Aberta",
+            "Preço": "31.5"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Chapada Diamantina",
+            "Mês": "10",
+            "Unidade": "Caixa Aberta",
+            "Preço": "71.36"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Chapada Diamantina",
+            "Mês": "11",
+            "Unidade": "Caixa Aberta",
+            "Preço": "67.25"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Chapada Diamantina",
+            "Mês": "12",
+            "Unidade": "Caixa Aberta",
+            "Preço": "82.33"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Itapeva (região)",
+            "Mês": "1",
+            "Unidade": "Caixa Aberta",
+            "Preço": "48.14"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Itapeva (região)",
+            "Mês": "2",
+            "Unidade": "Caixa Aberta",
+            "Preço": "44.8"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Itapeva (região)",
+            "Mês": "3",
+            "Unidade": "Caixa Aberta",
+            "Preço": "44.42"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Itapeva (região)",
+            "Mês": "4",
+            "Unidade": "Caixa Aberta",
+            "Preço": "38.66"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Itapeva (região)",
+            "Mês": "11",
+            "Unidade": "Caixa Aberta",
+            "Preço": "66.39"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Itapeva (região)",
+            "Mês": "12",
+            "Unidade": "Caixa Aberta",
+            "Preço": "57.62"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Mogi Guaçu (região)",
+            "Mês": "4",
+            "Unidade": "Caixa Aberta",
+            "Preço": "49.57"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Mogi Guaçu (região)",
+            "Mês": "5",
+            "Unidade": "Caixa Aberta",
+            "Preço": "47.9"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Mogi Guaçu (região)",
+            "Mês": "6",
+            "Unidade": "Caixa Aberta",
+            "Preço": "34.12"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Mogi Guaçu (região)",
+            "Mês": "7",
+            "Unidade": "Caixa Aberta",
+            "Preço": "25.53"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Mogi Guaçu (região)",
+            "Mês": "8",
+            "Unidade": "Caixa Aberta",
+            "Preço": "26.39"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Mogi Guaçu (região)",
+            "Mês": "9",
+            "Unidade": "Caixa Aberta",
+            "Preço": "34.72"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Mogi Guaçu (região)",
+            "Mês": "10",
+            "Unidade": "Caixa Aberta",
+            "Preço": "63.92"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Paty do Alferes (região)",
+            "Mês": "4",
+            "Unidade": "Caixa Aberta",
+            "Preço": "39.12"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Paty do Alferes (região)",
+            "Mês": "5",
+            "Unidade": "Caixa Aberta",
+            "Preço": "48.98"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Paty do Alferes (região)",
+            "Mês": "6",
+            "Unidade": "Caixa Aberta",
+            "Preço": "26.7"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Paty do Alferes (região)",
+            "Mês": "7",
+            "Unidade": "Caixa Aberta",
+            "Preço": "15.85"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Paty do Alferes (região)",
+            "Mês": "8",
+            "Unidade": "Caixa Aberta",
+            "Preço": "16.26"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Paty do Alferes (região)",
+            "Mês": "9",
+            "Unidade": "Caixa Aberta",
+            "Preço": "24.67"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Paty do Alferes (região)",
+            "Mês": "10",
+            "Unidade": "Caixa Aberta",
+            "Preço": "58.35"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Paty do Alferes (região)",
+            "Mês": "11",
+            "Unidade": "Caixa Aberta",
+            "Preço": "57.52"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Paty do Alferes (região)",
+            "Mês": "12",
+            "Unidade": "Caixa Aberta",
+            "Preço": "57.62"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "São José de Ubá (região)",
+            "Mês": "7",
+            "Unidade": "Caixa Aberta",
+            "Preço": "17.21"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "São José de Ubá (região)",
+            "Mês": "8",
+            "Unidade": "Caixa Aberta",
+            "Preço": "18.33"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "São José de Ubá (região)",
+            "Mês": "9",
+            "Unidade": "Caixa Aberta",
+            "Preço": "26.16"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "São José de Ubá (região)",
+            "Mês": "10",
+            "Unidade": "Caixa Aberta",
+            "Preço": "65.22"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Sumaré (região)",
+            "Mês": "4",
+            "Unidade": "Caixa Aberta",
+            "Preço": "48.03"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Sumaré (região)",
+            "Mês": "5",
+            "Unidade": "Caixa Aberta",
+            "Preço": "50.18"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Sumaré (região)",
+            "Mês": "6",
+            "Unidade": "Caixa Aberta",
+            "Preço": "31.88"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Sumaré (região)",
+            "Mês": "7",
+            "Unidade": "Caixa Aberta",
+            "Preço": "21.04"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Sumaré (região)",
+            "Mês": "10",
+            "Unidade": "Caixa Aberta",
+            "Preço": "86.13"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Sumaré (região)",
+            "Mês": "11",
+            "Unidade": "Caixa Aberta",
+            "Preço": "69.58"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Sumaré (região)",
+            "Mês": "12",
+            "Unidade": "Caixa Aberta",
+            "Preço": "56.25"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "1",
+            "Unidade": "Caixa Aberta",
+            "Preço": "50.82"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "2",
+            "Unidade": "Caixa Aberta",
+            "Preço": "50.49"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "3",
+            "Unidade": "Caixa Aberta",
+            "Preço": "46.57"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "4",
+            "Unidade": "Caixa Aberta",
+            "Preço": "48.94"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "5",
+            "Unidade": "Caixa Aberta",
+            "Preço": "43.47"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "6",
+            "Unidade": "Caixa Aberta",
+            "Preço": "32.78"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "7",
+            "Unidade": "Caixa Aberta",
+            "Preço": "22.36"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "8",
+            "Unidade": "Caixa Aberta",
+            "Preço": "21.84"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "9",
+            "Unidade": "Caixa Aberta",
+            "Preço": "29.02"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "10",
+            "Unidade": "Caixa Aberta",
+            "Preço": "69.52"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "11",
+            "Unidade": "Caixa Aberta",
+            "Preço": "73.34"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "12",
+            "Unidade": "Caixa Aberta",
+            "Preço": "68.33"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "87.5"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "63.34"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "67.65"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "56.9"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "54.81"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "58.48"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "40.88"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "34.76"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "34.95"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "40.6"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "75.42"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "82.09"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "72.81"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "60.27"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "61.15"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "56.82"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "55.7"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "56.36"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "37"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "30.55"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "33.17"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "39.67"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "79.07"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "78.01"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "73.56"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Campinas",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "37.15"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Campinas",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "37.41"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Campinas",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "31.94"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Campinas",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "30.06"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Campinas",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "31.33"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Campinas",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "21.55"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Campinas",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "18.65"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Campinas",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "18.66"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Campinas",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "22.4"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Campinas",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "40.77"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Campinas",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "46.15"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Campinas",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "41.74"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "35.19"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "37.37"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "35.11"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "31.31"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "34.94"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "19.88"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "17.39"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "17.13"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "21.11"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "38.87"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "39.38"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "37.36"
+        }
+    ],
+    "2019": [
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "Campinas",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "28.31"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "Campinas",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "32.3"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "Campinas",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "44.63"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "Campinas",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "53.34"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "Campinas",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "39.32"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "Campinas",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "43.39"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "Campinas",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "39.58"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "Campinas",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "24.31"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "Campinas",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "18.56"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "Campinas",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "20.8"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "Campinas",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "19.35"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "Campinas",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "22.1"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "24.08"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "32.7"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "45.09"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "57.3"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "46.8"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "46.69"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "41.2"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "23.88"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "19.55"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "18.45"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "21.6"
+        },
+        {
+            "Produto": "Italiano - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "23.13"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "53.89"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "63.53"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "84.32"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "94.69"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "72.81"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "78.67"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "71.54"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "43.47"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "36.8"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "39.57"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "36.2"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "39.52"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "48.71"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "62.68"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "82.84"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "93.62"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "75.07"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "77.11"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "70.33"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "41.28"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "35.42"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "35.99"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "36.52"
+        },
+        {
+            "Produto": "Italiano 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "38.09"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "44.72"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "57.53"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "70.63"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "88.75"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "64.99"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "75.82"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "66.73"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "36.8"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "34.03"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "31.99"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "30.76"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "38.75"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "49.95"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "56.64"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "75.96"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "94.51"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "70.66"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "76.85"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "67.79"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "39.69"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "33.92"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "37.95"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "34.92"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "39.03"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Itapeva (região)",
+            "Mês": "1",
+            "Unidade": "Caixa Aberta",
+            "Preço": "60"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "47.69"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "57.58"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "74.63"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "99.14"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "79.24"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "90.38"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "73.45"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "40.45"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "34.76"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "38.67"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "33.69"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "43.2"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "49.66"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "62"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "84.07"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "96.9"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "76"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "81.58"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "69.85"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "39.05"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "35.29"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "36.76"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "37.88"
+        },
+        {
+            "Produto": "Salada 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "39.27"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "24.42"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "32.53"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "39.84"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "50.58"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "37.21"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "42.78"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "39.88"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "20.17"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "19.2"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "17.29"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "16.5"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Belo Horizonte (capital)",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "20.31"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Campinas",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "25.27"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Campinas",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "30.21"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Campinas",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "41.12"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Campinas",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "54.41"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Campinas",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "38.94"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Campinas",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "44.63"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Campinas",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "39.75"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Campinas",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "23.58"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Campinas",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "17.55"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Campinas",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "20.67"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Campinas",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "20.04"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Campinas",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "21.87"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Itapeva (região)",
+            "Mês": "1",
+            "Unidade": "Caixa Aberta",
+            "Preço": "30"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Itapeva (região)",
+            "Mês": "4",
+            "Unidade": "Caixa Aberta",
+            "Preço": "50"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "23.08"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "31.18"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "40.86"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "60.31"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "48.69"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "54.84"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "47.76"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "24.61"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "21.19"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "23"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "19.91"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Rio de Janeiro (capital)",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "24.87"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "23.84"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "31.14"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "43.6"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "56.5"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "45.92"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "46.92"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "39.96"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "22.68"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "19.21"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "18.62"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "21.15"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "23.27"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "7",
+            "Unidade": "Caixa Aberta",
+            "Preço": "35"
+        },
+        {
+            "Produto": "Salada longa vida AA - atacado",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "10",
+            "Unidade": "Caixa Aberta",
+            "Preço": "65"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Araguari",
+            "Mês": "4",
+            "Unidade": "Caixa Aberta",
+            "Preço": "87.09"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Araguari",
+            "Mês": "5",
+            "Unidade": "Caixa Aberta",
+            "Preço": "63.65"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Araguari",
+            "Mês": "6",
+            "Unidade": "Caixa Aberta",
+            "Preço": "73.68"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Araguari",
+            "Mês": "7",
+            "Unidade": "Caixa Aberta",
+            "Preço": "57.82"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Araguari",
+            "Mês": "8",
+            "Unidade": "Caixa Aberta",
+            "Preço": "29.44"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Araguari",
+            "Mês": "9",
+            "Unidade": "Caixa Aberta",
+            "Preço": "25.32"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Araguari",
+            "Mês": "10",
+            "Unidade": "Caixa Aberta",
+            "Preço": "25.38"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Araguari",
+            "Mês": "11",
+            "Unidade": "Caixa Aberta",
+            "Preço": "26.96"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Araguari",
+            "Mês": "12",
+            "Unidade": "Caixa Aberta",
+            "Preço": "33.13"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Caçador (região)",
+            "Mês": "1",
+            "Unidade": "Caixa Aberta",
+            "Preço": "28.34"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Caçador (região)",
+            "Mês": "2",
+            "Unidade": "Caixa Aberta",
+            "Preço": "36.8"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Caçador (região)",
+            "Mês": "3",
+            "Unidade": "Caixa Aberta",
+            "Preço": "52.33"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Caçador (região)",
+            "Mês": "4",
+            "Unidade": "Caixa Aberta",
+            "Preço": "53.84"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Chapada Diamantina",
+            "Mês": "1",
+            "Unidade": "Caixa Aberta",
+            "Preço": "41.89"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Chapada Diamantina",
+            "Mês": "2",
+            "Unidade": "Caixa Aberta",
+            "Preço": "57.14"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Chapada Diamantina",
+            "Mês": "3",
+            "Unidade": "Caixa Aberta",
+            "Preço": "80"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Chapada Diamantina",
+            "Mês": "4",
+            "Unidade": "Caixa Aberta",
+            "Preço": "118.46"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Chapada Diamantina",
+            "Mês": "5",
+            "Unidade": "Caixa Aberta",
+            "Preço": "76.67"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Chapada Diamantina",
+            "Mês": "6",
+            "Unidade": "Caixa Aberta",
+            "Preço": "91.25"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Chapada Diamantina",
+            "Mês": "7",
+            "Unidade": "Caixa Aberta",
+            "Preço": "75"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Chapada Diamantina",
+            "Mês": "11",
+            "Unidade": "Caixa Aberta",
+            "Preço": "53.33"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Chapada Diamantina",
+            "Mês": "12",
+            "Unidade": "Caixa Aberta",
+            "Preço": "37.6"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Itapeva (região)",
+            "Mês": "1",
+            "Unidade": "Caixa Aberta",
+            "Preço": "33.63"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Itapeva (região)",
+            "Mês": "2",
+            "Unidade": "Caixa Aberta",
+            "Preço": "49.23"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Itapeva (região)",
+            "Mês": "3",
+            "Unidade": "Caixa Aberta",
+            "Preço": "71.01"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Itapeva (região)",
+            "Mês": "4",
+            "Unidade": "Caixa Aberta",
+            "Preço": "75.63"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Itapeva (região)",
+            "Mês": "11",
+            "Unidade": "Caixa Aberta",
+            "Preço": "40"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Itapeva (região)",
+            "Mês": "12",
+            "Unidade": "Caixa Aberta",
+            "Preço": "31.94"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Mogi Guaçu (região)",
+            "Mês": "5",
+            "Unidade": "Caixa Aberta",
+            "Preço": "75.27"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Mogi Guaçu (região)",
+            "Mês": "6",
+            "Unidade": "Caixa Aberta",
+            "Preço": "80.03"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Mogi Guaçu (região)",
+            "Mês": "7",
+            "Unidade": "Caixa Aberta",
+            "Preço": "61.98"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Mogi Guaçu (região)",
+            "Mês": "8",
+            "Unidade": "Caixa Aberta",
+            "Preço": "34.72"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Mogi Guaçu (região)",
+            "Mês": "9",
+            "Unidade": "Caixa Aberta",
+            "Preço": "27.65"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Mogi Guaçu (região)",
+            "Mês": "10",
+            "Unidade": "Caixa Aberta",
+            "Preço": "32.64"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Paty do Alferes (região)",
+            "Mês": "4",
+            "Unidade": "Caixa Aberta",
+            "Preço": "69.03"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Paty do Alferes (região)",
+            "Mês": "5",
+            "Unidade": "Caixa Aberta",
+            "Preço": "58.12"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Paty do Alferes (região)",
+            "Mês": "6",
+            "Unidade": "Caixa Aberta",
+            "Preço": "67.17"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Paty do Alferes (região)",
+            "Mês": "7",
+            "Unidade": "Caixa Aberta",
+            "Preço": "54.17"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Paty do Alferes (região)",
+            "Mês": "8",
+            "Unidade": "Caixa Aberta",
+            "Preço": "49.44"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Paty do Alferes (região)",
+            "Mês": "9",
+            "Unidade": "Caixa Aberta",
+            "Preço": "21.3"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Paty do Alferes (região)",
+            "Mês": "10",
+            "Unidade": "Caixa Aberta",
+            "Preço": "20.85"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Paty do Alferes (região)",
+            "Mês": "11",
+            "Unidade": "Caixa Aberta",
+            "Preço": "14.2"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "São José de Ubá (região)",
+            "Mês": "6",
+            "Unidade": "Caixa Aberta",
+            "Preço": "73.14"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "São José de Ubá (região)",
+            "Mês": "7",
+            "Unidade": "Caixa Aberta",
+            "Preço": "57.51"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "São José de Ubá (região)",
+            "Mês": "8",
+            "Unidade": "Caixa Aberta",
+            "Preço": "26.19"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "São José de Ubá (região)",
+            "Mês": "9",
+            "Unidade": "Caixa Aberta",
+            "Preço": "22.08"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "São José de Ubá (região)",
+            "Mês": "10",
+            "Unidade": "Caixa Aberta",
+            "Preço": "20"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Sumaré (região)",
+            "Mês": "4",
+            "Unidade": "Caixa Aberta",
+            "Preço": "82.47"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Sumaré (região)",
+            "Mês": "5",
+            "Unidade": "Caixa Aberta",
+            "Preço": "77.32"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Sumaré (região)",
+            "Mês": "6",
+            "Unidade": "Caixa Aberta",
+            "Preço": "78.67"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Sumaré (região)",
+            "Mês": "7",
+            "Unidade": "Caixa Aberta",
+            "Preço": "55.04"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Sumaré (região)",
+            "Mês": "8",
+            "Unidade": "Caixa Aberta",
+            "Preço": "30"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Sumaré (região)",
+            "Mês": "9",
+            "Unidade": "Caixa Aberta",
+            "Preço": "28.33"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Sumaré (região)",
+            "Mês": "10",
+            "Unidade": "Caixa Aberta",
+            "Preço": "36.71"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Sumaré (região)",
+            "Mês": "11",
+            "Unidade": "Caixa Aberta",
+            "Preço": "24.68"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "1",
+            "Unidade": "Caixa Aberta",
+            "Preço": "40.39"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "2",
+            "Unidade": "Caixa Aberta",
+            "Preço": "51.97"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "3",
+            "Unidade": "Caixa Aberta",
+            "Preço": "67.29"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "4",
+            "Unidade": "Caixa Aberta",
+            "Preço": "83.82"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "5",
+            "Unidade": "Caixa Aberta",
+            "Preço": "68.34"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "6",
+            "Unidade": "Caixa Aberta",
+            "Preço": "78.19"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "7",
+            "Unidade": "Caixa Aberta",
+            "Preço": "61.1"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "8",
+            "Unidade": "Caixa Aberta",
+            "Preço": "32.24"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "9",
+            "Unidade": "Caixa Aberta",
+            "Preço": "28.37"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "10",
+            "Unidade": "Caixa Aberta",
+            "Preço": "29.52"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "11",
+            "Unidade": "Caixa Aberta",
+            "Preço": "29.4"
+        },
+        {
+            "Produto": "Salada longa vida AA - produtor",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "12",
+            "Unidade": "Caixa Aberta",
+            "Preço": "35.47"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "54.26"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "63.48"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "84.71"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "94.97"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "72.91"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "78.67"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "71.6"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "43.58"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "36.89"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "39.53"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "36.84"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "Campinas",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "41.18"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "47.32"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "60.48"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "83.38"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "92.71"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "76.94"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "79.94"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "71.59"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "39.45"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "36.76"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "37.29"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "39.42"
+        },
+        {
+            "Produto": "Santa Cruz 3A AT - Tomate",
+            "Região": "São Paulo (capital)",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "40.21"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Campinas",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "28.31"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Campinas",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "32.53"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Campinas",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "43.85"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Campinas",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "53.27"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Campinas",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "39.32"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Campinas",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "43.39"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Campinas",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "39.63"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Campinas",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "24.23"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Campinas",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "18.56"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Campinas",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "20.91"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Campinas",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "19.4"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Campinas",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "22.75"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "1",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "21.11"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "2",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "29.31"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "3",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "39.34"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "4",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "52.77"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "5",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "46.64"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "6",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "47.67"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "7",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "39.24"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "8",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "21.7"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "9",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "19.75"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "10",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "19.56"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "11",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "22.26"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "São Paulo (capital)",
+            "Mês": "12",
+            "Unidade": "Caixa 20 kg",
+            "Preço": "23.81"
+        },
+        {
+            "Produto": "Santa Cruz AA - atacado",
+            "Região": "Venda Nova do Imigrante",
+            "Mês": "10",
+            "Unidade": "Caixa Aberta",
+            "Preço": "25"
+        }
+    ]
+}
